@@ -36,7 +36,7 @@ OpenClaw sparks a global craze for raising lobsters, collecting ai lobster produ
 - [TinyClaw](https://github.com/TinyAGI/tinyclaw) - TinyClaw is a team of personal agents that collaborate with each other. 
 - [LobsterAI](https://github.com/netease-youdao/lobsterai) - Your 24/7 all-scenario AI agent that gets work done for you.
 - [PhoneClaw](https://github.com/rohanarun/phoneclaw) - A version of OpenClaw/Clawdbot that automates android phones entirely without root, including all apps from a side-loaded APK. Acts as your 24/7 personal assistant on your phone.
-
+- [NemoClaw](https://github.com/NVIDIA/NemoClaw) - NVIDIA plugin for secure installation of OpenClaw.
 
 
 </details>
