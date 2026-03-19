@@ -37,6 +37,8 @@ OpenClaw sparks a global craze for raising lobsters, collecting ai lobster produ
 - [LobsterAI](https://github.com/netease-youdao/lobsterai) - Your 24/7 all-scenario AI agent that gets work done for you.
 - [PhoneClaw](https://github.com/rohanarun/phoneclaw) - A version of OpenClaw/Clawdbot that automates android phones entirely without root, including all apps from a side-loaded APK. Acts as your 24/7 personal assistant on your phone.
 - [NemoClaw](https://github.com/NVIDIA/NemoClaw) - NVIDIA plugin for secure installation of OpenClaw.
+- [HappyClaw](https://github.com/riba2534/happyclaw) - Self-hosted multi-user local AI agent system— Powered By Claude Code.
+- [Lossless Claw](https://github.com/Martian-Engineering/lossless-claw) - Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw.
 
 
 </details>
@@ -49,5 +51,6 @@ OpenClaw sparks a global craze for raising lobsters, collecting ai lobster produ
 - [JVS Claw](https://jvs.wuying.aliyun.com) - Built on the OpenClaw framework, it can be deployed with one click both in the cloud and locally, eliminating complicated configurations, accessible on multiple devices, and ready to start immediately.
 - [QClaw](https://claw.guanjia.qq.com) - QClaw is a local AI assistant developed by the Tencent PC Manager team based on OpenClaw, supporting both Mac and Windows.
 - [EasyClaw](https://easyclaw.com) - Based on the OpenClaw framework. One-click install. Zero configuration. No API key required. 
+- [AutoClaw](https://autoglm.zhipuai.cn/autoclaw) - AutoClaw (AoLong) is an AI assistant tool that supports one-click installation of OpenClaw, compatible with Windows and macOS. It offers Feishu integration, model hot-swapping, 50 skills, and AutoGLM browser automation capabilities.
 
 </details>
